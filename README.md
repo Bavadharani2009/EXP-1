@@ -53,14 +53,10 @@ Calculation:
 a.   KVL:
  <img width="690" height="1281" alt="01" src="https://github.com/user-attachments/assets/8ea775fa-bbda-4773-a27c-81b6eb08845c" />
 
-
-
 b.  KCL:
 <img width="714" height="1278" alt="02" src="https://github.com/user-attachments/assets/5e2224c2-a6cc-431b-900e-1b84db6ec431" />
 
-
 <img width="1232" height="1280" alt="03" src="https://github.com/user-attachments/assets/2cb3b7a7-20a1-48ef-a4b8-da8dd6bd233f" />
-
 
 
 Tabulation:
